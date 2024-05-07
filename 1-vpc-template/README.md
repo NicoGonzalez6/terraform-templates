@@ -30,3 +30,6 @@ cd <repository_directory>
 terraform init
 terraform plan
 terraform apply
+
+
+![image](https://github.com/NicoGonzalez6/terraform-templates/assets/88572660/d13fdc9a-c635-42d8-b003-81b5acf29163)
