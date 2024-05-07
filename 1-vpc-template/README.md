@@ -1,5 +1,7 @@
 # AWS VPC Template
 
+![image](https://github.com/NicoGonzalez6/terraform-templates/assets/88572660/e0ee7720-c909-4692-92fd-a0b939aca31d)
+
 ## Overview
 This Terraform template sets up a basic infrastructure on AWS consisting of the following resources:
 
@@ -30,3 +32,4 @@ cd <repository_directory>
 terraform init
 terraform plan
 terraform apply
+```
